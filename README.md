@@ -1,4 +1,4 @@
-# Can an algorithm learn how to carry a revolution?
+# Can an algorithm learn how to carry out a revolution?
 *An implementation of the war game defined by Guy Debord in Python and the training of a RL algorithm able to play it.*
 
 
